@@ -166,7 +166,7 @@ const PROJECTS = [
     ],
     repo: "https://github.com/jongbeen97/pleegie.git",
   },
-];
+]
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
